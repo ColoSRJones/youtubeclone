@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ColoSRJones/youtubeclone/static/css/main.83bc2fc3.chunk.css",
+    "main.js": "/ColoSRJones/youtubeclone/static/js/main.f013e889.chunk.js",
+    "main.js.map": "/ColoSRJones/youtubeclone/static/js/main.f013e889.chunk.js.map",
+    "runtime-main.js": "/ColoSRJones/youtubeclone/static/js/runtime-main.cf0af727.js",
+    "runtime-main.js.map": "/ColoSRJones/youtubeclone/static/js/runtime-main.cf0af727.js.map",
+    "static/js/2.51193e54.chunk.js": "/ColoSRJones/youtubeclone/static/js/2.51193e54.chunk.js",
+    "static/js/2.51193e54.chunk.js.map": "/ColoSRJones/youtubeclone/static/js/2.51193e54.chunk.js.map",
+    "index.html": "/ColoSRJones/youtubeclone/index.html",
+    "precache-manifest.c82728928f4ba7c900832f3fd82a4f4c.js": "/ColoSRJones/youtubeclone/precache-manifest.c82728928f4ba7c900832f3fd82a4f4c.js",
+    "service-worker.js": "/ColoSRJones/youtubeclone/service-worker.js",
+    "static/css/main.83bc2fc3.chunk.css.map": "/ColoSRJones/youtubeclone/static/css/main.83bc2fc3.chunk.css.map",
+    "static/js/2.51193e54.chunk.js.LICENSE.txt": "/ColoSRJones/youtubeclone/static/js/2.51193e54.chunk.js.LICENSE.txt",
+    "static/media/Youtube-Logo-Header.jpg": "/ColoSRJones/youtubeclone/static/media/Youtube-Logo-Header.1d9bda1a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf0af727.js",
+    "static/js/2.51193e54.chunk.js",
+    "static/css/main.83bc2fc3.chunk.css",
+    "static/js/main.f013e889.chunk.js"
+  ]
+}
